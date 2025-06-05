@@ -28,6 +28,7 @@ blueprint:
       input:
         people2monitor:
           name: Monitored people
+          description: Select **one or more persons** to track.
           selector:
             entity:
               filter:
@@ -36,6 +37,7 @@ blueprint:
 
         zone2monitor:
           name: Monitored zones (optional)
+          description: Leave blank to track **all** zones.
           default: []
           selector:
             entity:
@@ -45,6 +47,7 @@ blueprint:
 
     delivery:
       name: "Delivery"
+      description: Choose a phone/tablet with the official Home Assistant app.
       icon: mdi:cellphone
       collapsed: false
       input:
