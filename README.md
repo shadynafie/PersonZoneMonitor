@@ -35,3 +35,9 @@ It fires custom actions when any person:
 ---
 
 Need help? Watch [Smart Tech Arabic](https://www.youtube.com/@smarttecharabic) for tutorials and support.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
