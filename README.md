@@ -30,7 +30,7 @@ It fires custom actions when any person:
 
 ## 📥 Import the Blueprint
 
-[![Import Blueprint](https://my.home-assistant.io/badges/automation_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?repository_url=https://github.com/shadynafie/PersonZoneMonitor/blob/main/blueprints/automation/shadynafie/person_zone_monitor.yaml)
+[![Import Blueprint](https://my.home-assistant.io/badges/automation_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?automation_url=https://github.com/shadynafie/PersonZoneMonitor/raw/main/blueprints/automation/shadynafie/person_zone_monitor.yaml)
 
 ---
 
