@@ -30,7 +30,15 @@ It fires custom actions when any person:
 
 ## 🖼️ Preview
 
+Below is a visual overview of the blueprint in action, showing how it monitors multiple people across multiple zones.
+
 ![Preview](https://github.com/shadynafie/PersonZoneMonitor/raw/main/assets/preview.png)
+
+---
+
+## 📥 Import the Blueprint
+
+Click the button below to import this blueprint directly into your Home Assistant instance.
 
 [![Open your Home Assistant instance and show the blueprint import dialog with a specific blueprint pre-filled.](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fgithub.com%2Fshadynafie%2FPersonZoneMonitor%2Fblob%2Fmain%2Fblueprints%2Fautomation%2Fshadynafie%2Fperson_zone_monitor.yaml)
 
