@@ -47,12 +47,12 @@ blueprint:
 
     delivery:
       name: "Delivery"
-      description: Choose a phone/tablet with the official Home Assistant app.
       icon: mdi:cellphone
       collapsed: false
       input:
         notify_device:
           name: Target device
+          description: Choose a phone/tablet with the official Home Assistant app.
           selector:
             device:
               filter:
