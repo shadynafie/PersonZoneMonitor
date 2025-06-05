@@ -1,7 +1,7 @@
 # Person Zone Monitor – Home Assistant Blueprint
 
 📍 **Smart, reliable multi-person zone tracking using the official Home Assistant mobile app.**  
-Created by **Dr. Shady Nafie – [Smart Tech Arabic](https://smarttecharabic.com)**
+Created by **Shady Nafie – [Smart Tech Arabic](https://smarttecharabic.com)**
 
 ---
 
@@ -10,9 +10,9 @@ Created by **Dr. Shady Nafie – [Smart Tech Arabic](https://smarttecharabic.com
 This blueprint tracks the real-time location of **multiple people across multiple zones** using the **Home Assistant Companion app**.
 
 It fires custom actions when any person:
-- ✅ **Enters** a monitored zone
-- ❌ **Leaves** a monitored zone
-- 🔁 **Jumps** directly between two monitored zones
+- ➡️ **Enters** a monitored zone
+- ⬅️ **Leaves** a monitored zone
+- 🔄 **Jumps** directly between two monitored zones
 
 ---
 
