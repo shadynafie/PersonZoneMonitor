@@ -24,7 +24,7 @@ It fires custom actions when any person:
 - 🛠️ Offers **extra actions** for each type of zone event (enter/leave/jump)
 - 💬 Works well for homes, offices, or family setups
 
-- **Note:** This blueprint sends push notifications to one selected device.
+- **Note:** This blueprint sends push notifications to **ONE** selected device.
 
 ---
 
