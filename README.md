@@ -2,6 +2,7 @@
 
 📍 **Smart, reliable multi-person zone tracking using the official Home Assistant mobile app.**  
 Created by **Shady Nafie – [Smart Tech Arabic](https://smarttecharabic.com)**
+**Note:** This blueprint sends push notifications to one selected device.
 
 ---
 **Note:** This blueprint sends push notifications to one selected device.
